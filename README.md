@@ -6,5 +6,7 @@ Dự án này lưu trữ tài liệu về điện tâm đồ từ nhiều nguồ
 
 ![Normal 12-lead ECG](https://user-images.githubusercontent.com/27698189/95661159-5c16f200-0b57-11eb-9d9b-c105dfa7dfd2.png)
 
-## Copyright
-Copyright (c) Doctor Louis.
+## License
+Copyright &copy; **MedPocket**. All rights reserved.
+
+Licensed under the [CC0](LICENSE) license.
